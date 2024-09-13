@@ -31,3 +31,9 @@ is added on top of another branch and the second branch's commit history
 is 
 removed.  
 This creates a linear commit history timeline.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Creating functional programmed data science projects from scratch, 
+like 
+interactive data visualization dashboards.
