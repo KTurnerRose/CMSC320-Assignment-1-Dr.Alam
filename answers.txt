@@ -17,3 +17,17 @@ reporting projections for events journalists report on such as predicted
 election 
 outcomes for specific areas of a country based on voter registration data.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging integrates changes of both branches together, creates a 
+merge 
+commit and preserves the commit history of both branches being combined 
+(creating 
+a 'diamond shaped' commit history timeline).  Rebasing creates a rebase 
+commit 
+where one branch 
+is added on top of another branch and the second branch's commit history 
+is 
+removed.  
+This creates a linear commit history timeline.
