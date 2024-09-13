@@ -1,0 +1,10 @@
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: Journalists can use data science to investigate trends in a 
+population or 
+the effects of an event on a population.  Data science can also be used 
+for 
+reporting projections for events journalists report on such as predicted 
+election 
+outcomes for specific areas of a country based on voter registration data.
